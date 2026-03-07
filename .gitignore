@@ -1,0 +1,63 @@
+# Dependency directories
+node_modules/
+packages/
+
+# Build outputs
+dist/
+build/
+bin/
+obj/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# .NET
+*.dll
+*.exe
+*.pdb
+*.cache
+*.config
+
+# Coverage reports
+coverage/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Virtual Environment
+venv/
+.env/
+.venv/
+env/
+ENV/
